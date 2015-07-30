@@ -6,3 +6,7 @@ Open File "list" and add replace tem with  your URL
 Open "web-scrapper.py" file and modify the line no. 26 as per your requirement to fetch the "element div" or any section, save it and run script.
 
 `root@server# python web-scrapper.py`
+
+For any Issue or Question, Reply me here :- http://forum.worldofhacker.com/Article-Source-Code-Python-Web-Data-Scrapping
+
+Thanks
