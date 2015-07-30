@@ -5,7 +5,6 @@ from bs4 import BeautifulSoup as BS
 # Below file "list" contains list of URL in each line, see example file "list" in https://github.com/krokite/python-web-data-scrapper
 fo = open("list", 'r');
 
-
 print '''
 
  /$$   /$$                     /$$   /$$ /$$   /$$              
