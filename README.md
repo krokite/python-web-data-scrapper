@@ -7,6 +7,4 @@ Open "web-scrapper.py" file and modify the line no. 26 as per your requirement t
 
 `root@server# python web-scrapper.py`
 
-For any Issue or Question, Reply me here :- http://forum.worldofhacker.com/Article-Source-Code-Python-Web-Data-Scrapping
-
 Thanks
